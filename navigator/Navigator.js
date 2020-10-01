@@ -1,8 +1,8 @@
 import React from 'react';
 import { createStackNavigator } from "react-navigation-stack";
 import { createAppContainer} from "react-navigation";
-import AppScreen from './AppScreen';
-import Colors from './constants/Colors';
+import AppScreen from '../screen/AppScreen';
+import Colors from '../constants/Colors';
 
 
 const defaultStackNavOptions = {

@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, Text, StyleSheet} from 'react-native';
-import { CustomHeaderButtons, Item } from './HeaderButton';
+import { CustomHeaderButtons, Item } from '../components/HeaderButton';
 
 const AppScreen = props => {
   return (
